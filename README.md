@@ -39,6 +39,9 @@ The confusion matrix was used to identify:
 
 This provides more information about the model's mistakes than accuracy alone.
 
+<img width="876" height="711" alt="image" src="https://github.com/user-attachments/assets/913683fe-911c-4a34-94bf-2ca9fe67b594" />
+
+
 ## Tools Used
 
 - Python
